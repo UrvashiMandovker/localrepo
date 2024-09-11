@@ -14,8 +14,6 @@ class _ColoredboxState extends State<Coloredbox> {
       height: 400,
       width: 400,
       color: Colors.redAccent,
-
-
     );
   }
 }
