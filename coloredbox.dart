@@ -11,7 +11,7 @@ class _ColoredboxState extends State<Coloredbox> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 400,
+      height: 600,
       width: 400,
       color: Colors.redAccent,
     );
