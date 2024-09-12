@@ -13,7 +13,7 @@ class _ColoredboxState extends State<Coloredbox> {
     return Container(
       height: 400,
       width: 400,
-      color: Colors.redAccent,
+      color: Colors.pink,
     );
   }
 }
